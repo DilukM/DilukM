@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Diluk Udayakantha</h1>
 <h3 align="center">A passionate Flutter mobile application developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilukm" alt="dilukm" /></a> </p>
+<p align="left"> <a href="https://github.com/DilukM/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DilukM" alt="DilukM" /></a> </p>
 
 - 🔭 I’m currently working on **Gymnai**
 
