@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Gymnai**
+- 🔭 I’m currently working on **Clerr**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter and React**
 
-- 📫 How to reach me **dilukedu@gmail.com**
+- 📫 How to reach me **[dilukudayakantha.com](https://dilukudayakantha.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
